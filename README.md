@@ -1,0 +1,11 @@
+## Comprehensive Guide to Image Processing and Computer Vision with OpenCV
+- OpenCV TP1: Basic Functions  
+- OpenCV TP2: Histograms  
+- OpenCV TP3: Smoothing (Mean and Median Filters)  
+- OpenCV TP4: Binarization & Thresholding  
+- OpenCV TP5: Convolution Filters  
+- OpenCV TP6: Morphological Filters  
+- OpenCV TP7: Color and Conversion  
+- OpenCV TP8: Reading and Writing Video Streams  
+- TP9: Camera Calibration  
+- TP10: Object Detection by Color
